@@ -32,8 +32,3 @@ npm run build
 ```sh
 npm run lint
 ```
-
-## cwa 中央氣象屬開放平台
-[cwa](https://opendata.cwa.gov.tw/userLogin)
-[cwa_swagger](https://opendata.cwa.gov.tw/dist/opendata-swagger.html?urls.primaryName=openAPI#/%E9%A0%90%E5%A0%B1/get_v1_rest_datastore_F_D0047_091)
-
